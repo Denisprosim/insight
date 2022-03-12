@@ -7,7 +7,7 @@ body {
 }
 .main-panel {
     position: absolute;
-    top: 50%;
+    top: 90%;
     left: 50%;
     -moz-transform: translateX(-50%) translateY(-50%);
     -webkit-transform: translateX(-50%) translateY(-50%);
